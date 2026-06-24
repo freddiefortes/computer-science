@@ -65,9 +65,9 @@ This repository documents my self-directed study of the MIT [Computer Science an
 
 ## SINGLE VARIABLE CALCULUS
 
-> This introductory calculus course covers differentiation and integration of functions of one variable, with applications.
+> This calculus course covers differentiation and integration of functions of one variable, and concludes with a brief discussion of infinite series. Calculus is fundamental to many scientific disciplines including physics, engineering, and economics.
 - Instructor: Prof. David Jerison.
-- Course page: https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
+- Course page: https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/
 - Textbook: G. F. Simmons, Calculus with Analytic Geometry, 2nd ed. McGraw-Hill, 1996.
 
 <br/>
