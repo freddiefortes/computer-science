@@ -21,29 +21,21 @@ This repository documents my self-directed study of the MIT [Computer Science an
         - [Introduction to Computer Science and Programming in Python](#introduction-to-computer-science-and-programming-in-python)
         - [Single Variable Calculus](#single-variable-calculus)
         - [Classical Mechanics](#classical-mechanics)
-        - [Expository Writing for Bilingual Students](#expository-writing-for-bilingual-students)
         - [Introduction to Computational Thinking and Data Science](#introduction-to-computational-thinking-and-data-science)
     - [Term II (Oct 26 - Feb 13)](#contents)
         - [Introduction to Low-level Programming in C and Assembly](#introduction-to-low-level-programming-in-c-and-assembly)
+        - [Fundamentals of Programming](#fundamentals-of-programming)
         - [Mathematics for Computer Science](#mathematics-for-computer-science)
-        - [Multivariable Calculus](#multivariable-calculus)
         - [Physics II: Electricity and Magnetism](#physics-ii-electricity-and-magnetism)
     - [Term III (Mar 1 - Jun 5)](#contents)
-        - [Fundamentals of Programming](#fundamentals-of-programming)
-        - [Introduction to Algorithms](#introduction-to-algorithms)
         - [Computation Structures](#computation-structures)
-        - [Linear Algebra](#linear-algebra)
-    - [Term IV (Jun 28 - Oct 2)](#contents)
         - [Software Construction](#software-construction)
-        - [Design and Analysis of Algorithms](#design-and-analysis-of-algorithms)
+        - [Introduction to Algorithms](#introduction-to-algorithms)
+        - [Multivariable Calculus](#multivariable-calculus)
+    - [Term IV (Jun 28 - Oct 2)](#contents)
         - [Computer Systems Engineering](#computer-systems-engineering)
-        - [Introduction to Probability and Statistics](#introduction-to-probability-and-statistics)
-    - [Term V (Oct 25 - Feb 12)](#contents)
-        - [Software Design](#software-design)
-        - [Performance Engineering of Software Systems](#performance-engineering-of-software-systems)
-        - [Database Systems](#database-systems)
-        - [Computer Systems Security](#computer-systems-security)
-- [Final Project (TBD)](#final-project)
+        - [Design and Analysis of Algorithms](#design-and-analysis-of-algorithms)
+        - [Linear Algebra](#linear-algebra)
 - [Additional Resources](#additional-resources)
 
 <br/>
@@ -58,8 +50,6 @@ This repository documents my self-directed study of the MIT [Computer Science an
 - Instructors: Dr. Ana Bell, Prof. Eric Grimson, Prof. John Guttag.
 - Course page: https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
 - Textbook: J. V. Guttag, Introduction to Computation and Programming Using Python With Application to Computational Modeling and Understanding Data, 3rd ed. The MIT Press, 2021.
-
-### PERSONAL PROJECT: TBD
 
 <br/>
 
@@ -81,26 +71,12 @@ This repository documents my self-directed study of the MIT [Computer Science an
 
 <br/>
 
-## EXPOSITORY WRITING FOR BILINGUAL STUDENTS
-
-> The purpose of this course is to develop your writing skills so that you can feel confident writing the essays, term papers, reports, and exams you will have to produce during your career here at MIT. We will read and analyze samples of expository writing, do some work on vocabulary development, and concentrate on developing your ability to write clear, accurate, sophisticated prose. We will also deal with the grammar and mechanical problems you may have trouble with.
-- Instructor: Patricia Brennecke
-- Course page: https://ocw.mit.edu/courses/21g-222-expository-writing-for-bilingual-students-fall-2002/
-- Textbooks:
-    - M. A. Richek, World of Words: Vocabulary for College Students, 5th ed. Houghton Mifflin Co, 1999.
-    - D. Hacker, Rules for Writers, 4th ed. Boston: Bedford/St. Martin’s, 2000.
-    - J. D. Watson, The Double Helix: A Personal Account of the Discovery of the Structure of DNA, Touchstone, 2001.
-
-<br/>
-
 ## INTRODUCTION TO COMPUTATIONAL THINKING AND DATA SCIENCE
 
 > 6.0002 is the continuation of 6.0001 Introduction to Computer Science and Programming in Python and is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class uses the Python 3.5 programming language.
 - Instructors: Prof. Eric Grimson, Prof. John Guttag, Dr. Ana Bell.
 - Course page: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
 - Textbook: J. V. Guttag, Introduction to Computation and Programming Using Python With Application to Computational Modeling and Understanding Data, 3rd ed. The MIT Press, 2021.
-
-### PERSONAL PROJECT: TBD
 
 <br/>
 
@@ -115,35 +91,6 @@ This repository documents my self-directed study of the MIT [Computer Science an
     - D. A. Patterson and J. L. Hennessy, Computer Organization and Design: The Hardware Software Interface, RISC-V Edition, Morgan Kaufmann, 2017.
     - [Computation Structures Online Materials](https://computationstructures.org/)
 
-### PERSONAL PROJECT: TBD
-
-<br/>
-
-## MATHEMATICS FOR COMPUTER SCIENCE
-
-> This course covers elementary discrete mathematics for science and engineering, with a focus on mathematical tools and proof techniques useful in computer science. Topics include logical notation, sets, relations, elementary graph theory, state machines and invariants, induction and proofs by contradiction, recurrences, asymptotic notation, elementary analysis of algorithms, elementary number theory and cryptography, permutations and combinations, counting tools, and discrete probability.
-- Instructors: Prof. Erik Demaine, Dr. Zachary Abel, Dr. Brynmor Chapman.
-- Course page: https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/
-- Textbook: [E. Lehman, F. T. Leighton, and A. R. Meyer, Mathematics for Computer Science. 2018.](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
-
-<br/>
-
-## MULTIVARIABLE CALCULUS
-
-> This course covers differential, integral and vector calculus for functions of more than one variable. These mathematical tools and methods are used extensively in the physical sciences, engineering, economics and computer graphics.
-- Instructor: Prof. Denis Auroux.
-- Course page: https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/
-- Textbook: G. F. Simmons, Calculus with Analytic Geometry, 2nd ed. McGraw-Hill, 1996.
-
-<br/>
-
-## PHYSICS II: ELECTRICITY AND MAGNETISM
-
-> Electricity and magnetism dominate much of the world around us – from the most fundamental processes in nature to cutting-edge electronic devices. Electric and magnetic fields arise from charged particles. Charged particles also feel forces in electric and magnetic fields. Maxwell’s equations, in addition to describing this behavior, also describe electromagnetic radiation. [...]
-- Instructors: Dr. Peter Dourmashkin, Dr. Michelle Tomasik, Prof. Krishna Rajagopal, Analia Barrantes, Prof. Robert Redwine.
-- Course page: https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/
-- Textbook: [P. Dourmashkin et al., Electricity and Magnetism: MIT 8.02 Course Notes.](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/courseware/802-1x-Intro/seq-resources/?activate_block_id=block-v1%3AMITx%2B8.02.1x%2B1T2019%2Btype%40sequential%2Bblock%40seq-resources)
-
 <br/>
 
 ## FUNDAMENTALS OF PROGRAMMING
@@ -157,16 +104,23 @@ This repository documents my self-directed study of the MIT [Computer Science an
     - D. J. Agans, Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems, AMACOM, 2002.
     - P. Butcher, Debug It! Find, Repair, and Prevent Bugs in Your Code, Pragmatic Bookshelf, 2009.
 
-### PERSONAL PROJECT: TBD
+<br/>
+
+## MATHEMATICS FOR COMPUTER SCIENCE
+
+> This course covers elementary discrete mathematics for science and engineering, with a focus on mathematical tools and proof techniques useful in computer science. Topics include logical notation, sets, relations, elementary graph theory, state machines and invariants, induction and proofs by contradiction, recurrences, asymptotic notation, elementary analysis of algorithms, elementary number theory and cryptography, permutations and combinations, counting tools, and discrete probability.
+- Instructors: Prof. Erik Demaine, Dr. Zachary Abel, Dr. Brynmor Chapman.
+- Course page: https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/
+- Textbook: [E. Lehman, F. T. Leighton, and A. R. Meyer, Mathematics for Computer Science. 2018.](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
 
 <br/>
 
-## INTRODUCTION TO ALGORITHMS
+## PHYSICS II: ELECTRICITY AND MAGNETISM
 
-> This course is an introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. It emphasizes the relationship between algorithms and programming and introduces basic performance measures and analysis techniques for these problems.
-- Instructors: Prof. Erik Demaine, Dr. Jason Ku, Prof. Justin Solomon.
-- Course page: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
-- Textbook: T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, Introduction to Algorithms, 3rd ed. The MIT Press, 2009.
+> Electricity and magnetism dominate much of the world around us – from the most fundamental processes in nature to cutting-edge electronic devices. Electric and magnetic fields arise from charged particles. Charged particles also feel forces in electric and magnetic fields. Maxwell’s equations, in addition to describing this behavior, also describe electromagnetic radiation. [...]
+- Instructors: Dr. Peter Dourmashkin, Dr. Michelle Tomasik, Prof. Krishna Rajagopal, Analia Barrantes, Prof. Robert Redwine.
+- Course page: https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/
+- Textbook: [P. Dourmashkin et al., Electricity and Magnetism: MIT 8.02 Course Notes.](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/courseware/802-1x-Intro/seq-resources/?activate_block_id=block-v1%3AMITx%2B8.02.1x%2B1T2019%2Btype%40sequential%2Bblock%40seq-resources)
 
 <br/>
 
@@ -179,20 +133,6 @@ This repository documents my self-directed study of the MIT [Computer Science an
     - W. J. Dally and R. C. Harting, Digital Design: A Systems Approach, Cambridge: Cambridge University Press, 2012.
     - D. A. Patterson and J. L. Hennessy, Computer Organization and Design: The Hardware Software Interface, RISC-V Edition, Morgan Kaufmann, 2017.
     - [Computation Structures Online Materials](https://computationstructures.org/)
-
-### PERSONAL PROJECT: TBD
-
-<br/>
-
-## LINEAR ALGEBRA
-
-> This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
-- Instructor: Prof. Gilbert Strang.
-- Corse page: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
-- Textbooks:
-    - G. Strang, Introduction to Linear Algebra, 4th ed. Wellesley-Cambridge Press, 2009.
-    - G. Strang, Introduction to Linear Algebra, 5th ed. Wellesley-Cambridge Press, 2014.
-    - G. Strang, Differential Equations and Linear Algebra, Wellesley-Cambridge Press, 2014.
 
 <br/>
 
@@ -216,16 +156,23 @@ This repository documents my self-directed study of the MIT [Computer Science an
     - D. Herman, Effective JavaScript: 68 Specific Ways to Harness the Power of JavaScript, Addison-Wesley Professional, 2012.
     - D. Vanderkam, Effective TypeScript: 62 specific ways to improve your TypeScript, Beijing: O'Reilly, 2020.
 
-### PERSONAL PROJECT: TBD
+<br/>
+
+## INTRODUCTION TO ALGORITHMS
+
+> This course is an introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. It emphasizes the relationship between algorithms and programming and introduces basic performance measures and analysis techniques for these problems.
+- Instructors: Prof. Erik Demaine, Dr. Jason Ku, Prof. Justin Solomon.
+- Course page: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
+- Textbook: T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, Introduction to Algorithms, 3rd ed. The MIT Press, 2009.
 
 <br/>
 
-## DESIGN AND ANALYSIS OF ALGORITHMS
+## MULTIVARIABLE CALCULUS
 
-> This is an intermediate algorithms course with an emphasis on teaching techniques for the design and analysis of efficient algorithms, emphasizing methods of application. Topics include divide-and-conquer, randomization, dynamic programming, greedy algorithms, incremental improvement, complexity, and cryptography.
-- Instructors: Prof. Erik Demaine, Prof. Srini Devadas, Prof. Nancy Lynch.
-- Course page: https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/
-- Textbook: T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, Introduction to Algorithms, 3rd ed. The MIT Press, 2009.
+> This course covers differential, integral and vector calculus for functions of more than one variable. These mathematical tools and methods are used extensively in the physical sciences, engineering, economics and computer graphics.
+- Instructor: Prof. Denis Auroux.
+- Course page: https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/
+- Textbook: G. F. Simmons, Calculus with Analytic Geometry, 2nd ed. McGraw-Hill, 1996.
 
 <br/>
 
@@ -238,69 +185,26 @@ This repository documents my self-directed study of the MIT [Computer Science an
     - J. H. Saltzer and M. F. Kaashoek, Principles of Computer System Design: An Introduction, Part I, Morgan Kaufmann, 2009.
     - J. H. Saltzer and M. F. Kaashoek, Principles of Computer System Design: An Introduction, Part II, Morgan Kaufmann, 2009. (https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/).
 
-### PERSONAL PROJECT: TBD
+<br/>
+
+## DESIGN AND ANALYSIS OF ALGORITHMS
+
+> This is an intermediate algorithms course with an emphasis on teaching techniques for the design and analysis of efficient algorithms, emphasizing methods of application. Topics include divide-and-conquer, randomization, dynamic programming, greedy algorithms, incremental improvement, complexity, and cryptography.
+- Instructors: Prof. Erik Demaine, Prof. Srini Devadas, Prof. Nancy Lynch.
+- Course page: https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/
+- Textbook: T. H. Cormen, C. E. Leiserson, R. L. Rivest, and C. Stein, Introduction to Algorithms, 3rd ed. The MIT Press, 2009.
 
 <br/>
 
-## INTRODUCTION TO PROBABILITY AND STATISTICS
+## LINEAR ALGEBRA
 
-> This course provides an elementary introduction to probability and statistics with applications. Topics include basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.
-- Instructors:  Dr. Jeremy Orloff and Dr. Jennifer French Kamrin.
-- Course page: https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/
-
-### PERSONAL PROJECT: TBD
-
-<br/>
-
-## SOFTWARE DESIGN
-
-> In this class, you’ll go beyond coding and learn how to design and build software that is elegant, powerful and flexible. In addition to classic software design and UX techniques, you’ll learn concept design, a new way to structure software functionality more effectively. You’ll also learn how to use LLMs in design and code, and how to incorporate AI agents into applications. AI coding is very much in flux, as the capabilities of tools change almost day by day. So this class offering will be a bit experimental, and you shouldn’t expect everything to be as predictable as it would be in a mature class.
-- Instructors: Mitchell Gordon, Daniel Jackson, Amber Horvath.
-- Course page: https://61040-fa25.github.io/
-- Textbook: D. Jackson, The Essence of Software: Why Concepts Matter for Great Design, Princeton University Press, 2021.
-
-### PERSONAL PROJECT: TBD
-
-<br/>
-
-## PERFORMANCE ENGINEERING OF SOFTWARE SYSTEMS
-
-> 6.172 is an 18-unit class that provides a hands-on, project-based introduction to building scalable and high-performance software systems. Topics include performance analysis, algorithmic techniques for high performance, instruction-level optimizations, caching optimizations, parallel programming, and building scalable systems. The course programming language is C.
-- Instructors: Prof. Charles Leiserson, Prof. Julian Shun.
-- Course page: https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/
-- Readings: see course page.
-
-### PERSONAL PROJECT: TBD
-
-<br/>
-
-## DATABASE SYSTEMS
-
-> This course relies on primary readings from the database community to introduce graduate/undergraduate students to the foundations of database systems, focusing on basics such as the relational algebra and data model, schema normalization, query optimization, transactions, and other more advanced topics. No prior database experience is assumed though students who have taken an undergraduate course in databases are encouraged to attend.
-- Instructors: Michael Cafarella, Tianyu Li.
-- Course page: https://dsg.csail.mit.edu/6.5830/index.php
+> This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
+- Instructor: Prof. Gilbert Strang.
+- Corse page: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
 - Textbooks:
-    - Edited by P. Bailis, J. M. Hellerstein, and M. Stonebraker, Readings in Database Systems, 5th ed. 2015.
-    - [Go by Example](https://gobyexample.com/)
-
-### PERSONAL PROJECT: TBD
-
-<br/>
-
-## COMPUTER SYSTEMS SECURITY
-
-> The lectures cover a broad overview of systems security together with a deeper focus on several topics: isolation techniques, privilege separation, dealing with buggy code, networked and distributed systems, and human-focused security and privacy.
-- Instructor: Nickolai Zeldovich.
-- Course page: https://css.csail.mit.edu/6.5660/2024/
-- Readings: see course page.
-
-### PERSONAL PROJECT: TBD
-
-<br/>
-
-# FINAL PROJECT
-
-**TBD**
+    - G. Strang, Introduction to Linear Algebra, 4th ed. Wellesley-Cambridge Press, 2009.
+    - G. Strang, Introduction to Linear Algebra, 5th ed. Wellesley-Cambridge Press, 2014.
+    - G. Strang, Differential Equations and Linear Algebra, Wellesley-Cambridge Press, 2014.
 
 <br/>
 
@@ -317,7 +221,6 @@ This repository documents my self-directed study of the MIT [Computer Science an
 - [CommKit - MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/use-the-commkit/)
 - [Resources & Advice - MIT Career Advising & Professional Development](https://capd.mit.edu/channels/resources-advice/)
 - [Open-Source Psychometrics Project](https://openpsychometrics.org/)
-- [Phrack Magazine](https://phrack.org/)
 
 <br/>
 <h2></h2>
